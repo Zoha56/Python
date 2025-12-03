@@ -8,3 +8,14 @@ In this lab, I focused on converting unstructured patient data into a clean and 
 Throughout the lab, I practiced breaking down problems into smaller steps, especially when working with messy strings and extracting useful information. This helped me understand how real data often needs cleaning before analysis. I also strengthened my confidence in handling dictionaries, iterating over records, and generating meaningful summaries from data.
 
 Overall, the lab improved my logical thinking, data-handling skills, and ability to write clear, structured code to solve practical problems.
+
+## Applied Python Assignment ☑️
+# 🎯 Learning Outcomes
+- Learned to store, manage, and analyze data using lists, dictionaries, and functions.
+- Built multiple real-world mini-systems (cart, billing, attendance, bookings, finance tracker).
+- Practiced input processing, validation, and data cleaning.
+- Performed calculations such as totals, averages, highest values, and summaries.
+- Extracted insights like top performers, frequent items, mutual friends, and fastest routes.
+- Organized data by categories (expenses, books, domains, authors).
+- Improved ability to design structured, modular, and reusable code.
+- Strengthened problem-solving skills through real-world programming scenarios.
