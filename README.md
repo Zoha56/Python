@@ -10,7 +10,7 @@ Throughout the lab, I practiced breaking down problems into smaller steps, espec
 Overall, the lab improved my logical thinking, data-handling skills, and ability to write clear, structured code to solve practical problems.
 
 ## Applied Python Assignment ☑️
-# 🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 - Learned to store, manage, and analyze data using lists, dictionaries, and functions.
 - Built multiple real-world mini-systems (cart, billing, attendance, bookings, finance tracker).
 - Practiced input processing, validation, and data cleaning.
@@ -19,3 +19,17 @@ Overall, the lab improved my logical thinking, data-handling skills, and ability
 - Organized data by categories (expenses, books, domains, authors).
 - Improved ability to design structured, modular, and reusable code.
 - Strengthened problem-solving skills through real-world programming scenarios.
+# CMS assignment 👨‍🎓
+## Approach
+- Parsed raw student records stored as strings into structured Python dictionaries.
+- Used string operations (`split`, `strip`) to extract keys and values.
+- Converted numeric fields (`id`, `attendance`, `marks`) into appropriate data types.
+- Calculated department-wise average attendance using dictionaries.
+- Filtered students with low attendance using conditional checks.
+
+## Learning Outcomes
+- Learned how to clean and transform unstructured text data into structured formats.
+- Practiced type conversion, error handling, and dictionary manipulation.
+- Improved understanding of data parsing, aggregation, and filtering in Python.
+- Gained experience writing modular code with reusable functions.
+
